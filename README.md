@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img align="right" height="240" src="https://i.im.ge/2024/07/21/VRwKQ9.anime-boy-hyouka-hotaroorek-fecqgpebp1smhhy1.gif"  />
+<img src="https://i.im.ge/2024/07/21/VRwKQ9.anime-boy-hyouka-hotaroorek-fecqgpebp1smhhy1.gif" alt="anime boy hyouka hotaroorek fecqgpebp1smhhy1" border="0" />
 
 ###
 
@@ -58,8 +58,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Xsaviox1/Xsaviox1/output/snake.svg" alt="Snake animation" />
-
-###
